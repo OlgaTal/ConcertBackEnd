@@ -1,8 +1,8 @@
 {
-  "name": "template",
+  "name": "ConcertBackEnd",
   "version": "1.0.3",
   "scripts": {
-    "dev": "DB=changeme LEVEL=silly PORT=3333 nodemon dst/server.js"
+    "dev": "DB=ConcertBackEndDB LEVEL=silly PORT=3333 nodemon dst/server.js"
   },
   "author": "Chyld Medford",
   "license": "MIT",

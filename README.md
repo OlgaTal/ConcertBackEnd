@@ -1,1 +1,1 @@
-# This is the back end for the react application
+# This is the back end for the REACT application
